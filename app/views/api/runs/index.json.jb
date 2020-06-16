@@ -1,0 +1,3 @@
+@runs.map do |run|
+  render partial: 'run.json.jb', locals:{run: run}
+end

@@ -1,0 +1,7 @@
+{
+  id: run.id,
+  distance: run.distance,
+  time: run.time,
+  user_id: run.user_id,
+  comments: run.comments
+}

@@ -1,0 +1,1 @@
+render partial: 'run.json.jb', locals:{run: @run}
